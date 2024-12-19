@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ 
+.navbar{
+    display: flex; 
+}
+.nav_section{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    li{
+        padding-left: 10rem;
+    }
+}
